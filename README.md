@@ -1,4 +1,4 @@
-# pentaho-cassandra-plugin
+# tahopen-cassandra-plugin
 _Cassandra plugin for PDI_
 
 ## Building the project
