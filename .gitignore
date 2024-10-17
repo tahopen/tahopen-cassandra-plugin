@@ -1,0 +1,16 @@
+.idea/
+.settings/
+bin/
+dist/
+lib/
+lib-provided/
+stage-pmr/
+test-lib/
+eclipse-bin/
+dev-lib/
+pdi-null/
+pdi-bin/
+
+override.properties
+*.iml
+**/target/
